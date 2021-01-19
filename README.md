@@ -1,4 +1,5 @@
-# Numerical_discretization
+# Partial_differentiation
+
 In this we are going to understand the difference in the values obtained by analytical and numerical derivative.\
 The function is
 
